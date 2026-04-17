@@ -1,8 +1,8 @@
 // =====================
 //  CONFIG
 // =====================
-const API_KEY = '36f942aaa864eeb0f1b9836d7b24959d';
-const BASE    = 'https://api.openweathermap.org/data/2.5';
+const API_KEY = '//Add your API Key here';
+const BASE    = '';
 
 // =====================
 //  WEATHER ICON MAP
