@@ -47,4 +47,5 @@ API key is set in `app.js` → `const API_KEY = '...'`
 To use your own key, replace the value in `app.js`.
 
 ![image alt](https://github.com/Akshta31/Skyly-Weather-App/blob/ecf2d9399dde22ce41adb51fed67ba26d96d03f1/sc1.png)
+![image alt](https://github.com/Akshta31/Skyly-Weather-App/blob/44833138cc2334be19e8a055e475bcc3c5fc3d1b/sc2.png)
 
