@@ -1,6 +1,6 @@
 # ☀️ Sunny — Weather App
 
-A minimal, aesthetic weather app with a warm orange 
+A minimal, aesthetic weather app with a warm
 
 ## 🚀 How to Run
 
