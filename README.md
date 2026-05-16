@@ -1,7 +1,5 @@
 # ☀️ Sunny — Weather App
 
-A minimal, 
-
 ## 🚀 How to Run
 
 Just open `index.html` in any modern browser. No build step needed.
