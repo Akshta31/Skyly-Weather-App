@@ -1,6 +1,6 @@
 # ☀️ Sunny — Weather App
 
-A minimal, aesthetic weather 
+A minimal, aesthetic 
 
 ## 🚀 How to Run
 
